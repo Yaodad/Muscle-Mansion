@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}
+
+@layer components {
+  .container {
+    max-width: 1240px;
+    margin: 0 auto;
+    padding: 0 25px;
+  }
+
+  .btnWhite {
+    @apply w-[200px] h-[55px] bg-white py-3 text-center text-black font-bold uppercase flex justify-center items-center gap-2 relative transition-all duration-300 hover:bg-white after:content-[''] after:border-2 after:border-white/25 after:w-full after:h-full after:absolute after:top-[-13px] after:left-[13px] after:z-[-1] after:transition-all after:duration-300 hover:after:top-0 hover:after:left-0 hover:after:border-2 hover:after:border-white;
+  }
+
+  .btnGray {
+    @apply w-[200px] h-[55px] bg-secondary py-3 text-center text-white font-bold uppercase flex justify-center items-center gap-2 relative transition-all duration-300 hover:bg-primary after:content-[''] after:border-2 after:border-secondary/25 after:w-full after:h-full after:absolute after:top-[-13px] after:left-[13px] after:z-[-1] after:transition-all after:duration-300 hover:after:top-0 hover:after:left-0 hover:after:border-2 hover:after:border-primary;
+  }
+
+  .btnLightGray {
+    @apply w-[200px] h-[55px] bg-light-gray py-3 text-center text-white font-bold uppercase flex justify-center items-center gap-2 relative transition-all duration-300 hover:bg-primary after:content-[''] after:border-2 after:border-light-gray/25 after:w-full after:h-full after:absolute after:top-[-13px] after:left-[13px] after:z-[-1] after:transition-all after:duration-300 hover:after:top-0 hover:after:left-0 hover:after:border-2 hover:after:border-primary;
+  }
+
+  .btnPink {
+    @apply w-[200px] h-[55px] bg-primary py-3 text-center text-white font-bold uppercase flex justify-center items-center gap-2 relative transition-all duration-300 hover:bg-primary after:content-[''] after:border-2 after:border-primary/25 after:w-full after:h-full after:absolute after:top-[-13px] after:left-[13px] after:z-[-1] after:transition-all after:duration-300 hover:after:top-0 hover:after:left-0 hover:after:border-2 hover:after:border-primary;
+  }
+}
+
+@layer utilities {
+  .padding {
+    @apply sm:px-16 px-8 sm:py-24 py-12;
+  }
+
+  .padding-x {
+    @apply sm:px-16 px-8;
+  }
+
+  .padding-y {
+    @apply sm:py-24 py-12;
+  }
+
+  .padding-l {
+    @apply sm:pl-16 pl-8;
+  }
+
+  .padding-r {
+    @apply sm:pr-16 pr-8;
+  }
+
+  .padding-t {
+    @apply sm:pt-24 pt-12;
+  }
+
+  .padding-b {
+    @apply sm:pb-24 pb-12;
+  }
+
+  .offscreen {
+    @apply absolute left-[-10000px];
+  }
+
+  .text-accent {
+    @apply hover:text-primary ease-in duration-200;
+  }
+
+  .hero-section {
+    @apply bg-hero-image bg-cover bg-no-repeat bg-center h-[110vh];
+  }
+
+  .bg-abstract {
+    @apply bg-abstract-white bg-cover bg-no-repeat bg-center;
+  }
+
+  .filter-primary {
+    filter: brightness(0) saturate(100%) invert(59%) sepia(81%) saturate(2064%)
+      hue-rotate(310deg) brightness(101%) contrast(108%);
+  }
+}
