@@ -1,4 +1,4 @@
-import { bgCard } from '../assets/images';
+import bgCard from '/bg-card.jpg';
 
 const Card = ({ icon, title, description }) => {
   return (

@@ -2,8 +2,6 @@ import mmLogo from './mm-logo.png';
 import mmLogoBlack from './mm-logo-black.png';
 import mmLogoGray from './mm-logo-gray.png';
 import paintStroke from './paint-stroke.svg';
-import bgHero from './heroimage.jpg';
-import bgCard from './bg-card.jpg';
 import running from './running.png';
 import cyclingImg from './cycling.jpeg';
 import karateImg from './karate.jpg';
@@ -15,7 +13,6 @@ import boxingImg from './boxing.jpg';
 import bodyBuildingImg from './bodybuilding.jpg';
 import powerLiftingImg from './powerlifting.jpg';
 import crossfitImg from './crossfit.jpg';
-import breakImg from './break.png';
 import chooseImg from './choose.png';
 import coach1 from './coach1.png';
 import coach2 from './coach2.png';
@@ -68,9 +65,7 @@ export {
 	mmLogo,
 	mmLogoBlack,
 	mmLogoGray,
-	bgHero,
 	paintStroke,
-	bgCard,
 	running,
 	cyclingImg,
 	karateImg,
@@ -82,7 +77,6 @@ export {
 	bodyBuildingImg,
 	powerLiftingImg,
 	crossfitImg,
-	breakImg,
 	chooseImg,
 	coach1,
 	coach2,

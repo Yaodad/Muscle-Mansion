@@ -2,25 +2,22 @@
 export default {
   content: [
     "./index.html",
-    "./src/**/*.{js,ts,jsx,tsx}",
+    "./src/**/*.{js,ts,jsx,tsx}"
   ],
   theme: {
     extend: {
       backgroundImage: {
-        'hero-image': "url('src/assets/images/heroimage.jpg')",
-        'offerCard': "url('src/assets/images/bg-card.jpg')",
-        'abstract-white': "url('src/assets/images/abstract-white.jpg')",
-        'abstract-black': "url('src/assets/images/abstract-black.jpg')",
-        'featured-cta': "url('src/assets/images/break.png')",
-        'bmi': "url('src/assets/images/bg-bmi.jpg')",
-        'cta': "url('src/assets/images/bg-cta.jpg')",
-        'banner': "url('src/assets/images/banner.jpg')",
+        'hero-image': "url('/heroimage.jpg')",
+        'offerCard': "url('/bg-card.jpg')",
+        'abstract-white': "url('/abstract-white.jpg')",
+        'abstract-black': "url('/abstract-black.jpg')",
+        'featured-cta': "url('/break.png')",
+        'bmi': "url('/bg-bmi.jpg')",
+        'cta': "url('/bg-cta.jpg')",
+        'banner': "url('/banner.jpg')",
       },
       fontFamily: {
       montserrat: ['Montserrat', 'sans-serif'],
-      },
-      gridCol: {
-        'span-blog': 'span 3 / span 4',
       },
       colors: {
         'primary': '#ff6a84',
