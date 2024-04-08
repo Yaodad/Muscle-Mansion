@@ -2,10 +2,12 @@ import { MapContainer, TileLayer, Marker, Popup } from 'react-leaflet';
 import 'leaflet/dist/leaflet.css';
 
 const Map = () => {
+  const coordinates = [14.828201, 120.883354];
+
   return (
     <>
       <MapContainer
-        center={[14.828201, 120.883354]}
+        center={coordinates}
         zoom={14}
         scrollWheelZoom={false}
         style={{
@@ -19,7 +21,7 @@ const Map = () => {
           attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
           url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
         />
-        <Marker position={[14.828201, 120.883354]}>
+        <Marker position={coordinates}>
           <Popup>Muscle Mansion's Location</Popup>
         </Marker>
       </MapContainer>
