@@ -19,11 +19,54 @@
 
 ![Homepage](https://github.com/Yaodad/Resibomo/assets/126692737/5904077b-860f-4fbd-89c3-86424bea040e)
 
-</div>
+<br><br>
+
+<h3 align='center'>Blog Page ✍️</h3>
+
+![blog](https://github.com/Yaodad/Muscle-Mansion/assets/126692737/b3cc6b59-6bde-4ec8-a897-38a25ff1ca11)
 
 <br><br>
 
-<h3 align='center'>Sign In & Sign Ip Pages 🔐</h3>
+<h3 align='center'>Contact Page 📩</h3>
 
-![resibomo-signin](https://github.com/Yaodad/Resibomo/assets/126692737/fae52372-c462-4561-b532-51fe103a7a95)
-![resibomo-signup](https://github.com/Yaodad/Resibomo/assets/126692737/cd857107-1a6f-4d50-86c6-57bcf1a2c992)
+![contact](https://github.com/Yaodad/Muscle-Mansion/assets/126692737/82fcf7fb-7582-4d90-9c29-607fe2ab9989)
+
+<br><br>
+
+<h3 align='center'>Classes Page 🏋</h3>
+
+![classes](https://github.com/Yaodad/Muscle-Mansion/assets/126692737/2369c2df-c8a9-4d7b-82f5-a00f4c10b185)
+
+<br><br>
+
+<h3 align='center'>Schedule Page 🗓️</h3>
+
+![schedule](https://github.com/Yaodad/Muscle-Mansion/assets/126692737/8b5f4400-039a-4f52-96ba-179639c43305)
+
+<h3 align='center'>About Page 🔎</h3>
+
+![about](https://github.com/Yaodad/Muscle-Mansion/assets/126692737/6329136f-a5bb-4bc4-aab9-e62df7688410)
+
+<br><br>
+
+<h3 align='center'>Gallery Page 🖼️</h3>
+
+![gallery](https://github.com/Yaodad/Muscle-Mansion/assets/126692737/74e4c8a8-8f3e-4ee7-9921-a036985adbdb)
+
+<br><br>
+
+<h3 align='center'>Pricing Page 💳</h3>
+
+![pricing](https://github.com/Yaodad/Muscle-Mansion/assets/126692737/04174066-68d9-4f6e-8272-31ca98a1f216)
+
+<br><br>
+
+<h3 align='center'>Sign In Page 🔐</h3>
+
+![signin](https://github.com/Yaodad/Muscle-Mansion/assets/126692737/aa6e8785-2811-4a32-a386-942afbb636f9)
+
+<br><br>
+
+<h3 align='center'>Sign Up Page ✔️</h3>
+
+![signup](https://github.com/Yaodad/Muscle-Mansion/assets/126692737/6464a20b-452b-41c9-a25a-ca21bc63275e)
