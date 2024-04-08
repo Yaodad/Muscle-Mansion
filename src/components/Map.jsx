@@ -14,7 +14,6 @@ const Map = () => {
           height: '420px',
           backgroundColor: '#f5f5f5',
           marginTop: '90px',
-          zIndex: 0,
         }}
       >
         <TileLayer
