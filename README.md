@@ -2,7 +2,7 @@
 
 ## About the project
 
-**Muscle Mansion** is not just a gym; it's a powerhouse of strength and transformation. With state-of-the-art equipment, expert trainers, and a motivating atmosphere, Muscle Mansion is where fitness goals become reality..
+**Muscle Mansion** is not just a gym, it's a powerhouse of strength and transformation. With state-of-the-art equipment, expert trainers, and a motivating atmosphere, Muscle Mansion is where fitness goals become reality.
 
 👉🏼 **Live Demo:** [Muscle Mansion site](https://muscle-mansion.vercel.app/)
 
@@ -29,7 +29,7 @@
 
 <h3 align='center'>Contact Page 📩</h3>
 
-![contact](https://github.com/Yaodad/Muscle-Mansion/assets/126692737/82fcf7fb-7582-4d90-9c29-607fe2ab9989)
+![contact](https://github.com/Yaodad/Muscle-Mansion/assets/126692737/11f204e7-d36f-4ce2-b752-f225ef9fbbfe)
 
 <br><br>
 
