@@ -5,7 +5,7 @@ import { footerInputs } from '../constants';
 
 const Footer = () => {
   return (
-    <section>
+    <footer>
       <div className="container my-[90px]">
         <div className="flex flex-col sm:flex-row justify-between items-start gap-8 font-montserrat text-secondary font-medium">
           <div className="w-full sm:w-2/4 flex flex-col items-start xs:items-center sm:items-start xs:text-center sm:text-start gap-5">
@@ -34,7 +34,7 @@ const Footer = () => {
               </Link>
             </div>
             <p>
-              Pricavy Policy | &copy; &nbsp;
+              Privacy Policy | &copy; &nbsp;
               <span>{new Date().getFullYear()}</span>
               &nbsp; <span className="whitespace-nowrap">Muscle Mansion</span>
             </p>
@@ -71,7 +71,7 @@ const Footer = () => {
           </div>
         </div>
       </div>
-    </section>
+    </footer>
   );
 };
 
