@@ -1,4 +1,4 @@
-<div align='center'><img style='width:23%' src='src\assets\images\mm-logo.png' alt='btc-icon'></div>
+<div align='center'><img style='width:23%' src='src\assets\images\mm-logo.png' alt='muscle-mansion-logo'></div>
 
 ## About the project
 
